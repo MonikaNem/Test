@@ -8,5 +8,6 @@ package cz.trask.mnemeckova.training;
 public class Main {
         public static void main(String[] args) {
             System.out.println("Čau!");
+            System.out.println("Test změny přímo v masteru");
         }
 }
