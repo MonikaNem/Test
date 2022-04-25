@@ -1,0 +1,12 @@
+package cz.trask.mnemeckova.training;
+
+/**
+ * javadoc zkouška
+ * @author mnemeckova
+ */
+
+public class Main {
+        public static void main(String[] args) {
+            System.out.println("Čau!");
+        }
+}
